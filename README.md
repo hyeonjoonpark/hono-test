@@ -5,7 +5,7 @@ bun install
 
 To run:
 ```sh
-bun run dev
+npx wrangler dev --minify ./src/index.ts
 ```
 
 open http://localhost:3000
